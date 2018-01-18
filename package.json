@@ -1,7 +1,7 @@
 {
   "name": "tuio",
   "description": "Tuio is the server part of Tuio.js, a JavaScript implementation of the TUIO library for multitouch and tangible interaction in the web browser.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "http://fe9lix.github.com/Tuio.js/",
   "author": {
     "name": "Felix Raab",
@@ -21,7 +21,7 @@
     }
   ],
   "engines": {
-    "node": "~0.6.13"
+    "node": "~6.1"
   },
   "dependencies": {
     "socket.io": "^1.7",
